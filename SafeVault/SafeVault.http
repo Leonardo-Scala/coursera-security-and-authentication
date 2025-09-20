@@ -1,0 +1,6 @@
+@SafeVault_HostAddress = http://localhost:5207
+
+GET {{SafeVault_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
